@@ -1,0 +1,16 @@
+---
+title: "Cerrado"
+output: html_document
+date: "2024-05-25"
+---
+# Notas de aula
+
+## Definição de extenão
+
+### S i` da extensão
+
+1) Interação dialogica 
+2) Interdisciplinaridade/interprofissionalidade
+3) Indissociabilidade ensino-pesquisa-extensão
+4) Impacto na formação do estudante
+5) Impacto na transformação social
